@@ -1,0 +1,4 @@
+{
+    "pessoas" : ["Luis Felipe","Luis Fernando","Carolina", "Selma", "Tita", "Julio", "Alberto"],
+    "objetos": ["colher","carro","garfo"] 
+}
