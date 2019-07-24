@@ -1,4 +1,4 @@
 {
-    "pessoas" : ["Luis Felipe","Luis Fernando","Carolina", "Selma", "Tita", "Julio", "Alberto"],
+    "pessoas" : ["Zezinho","Luisinho","Huguinho", "Tio Patinhas", "Pato Donald", "Margarida", "Pluto"],
     "objetos": ["colher","carro","garfo"] 
 }
